@@ -116,3 +116,26 @@ SVG
 # 动画
 ## 关键帧动画
 CSS中的动画包括两部分:用来定义动画的@keyframes规则和为元素添加动画的animation属性。
+```
+@keyframes over-and-back {      ←---- 为动画命名   
+	0% {                                 
+	background-color: hsl(0, 50%, 50%);   (以下2行)第一个关键帧声明     
+	transform: translate(0);                
+	}
+	50% {     ←---- 第二个关键帧发生于动画进行到一半时     
+	transform: translate(50px);          
+	}    
+	100% {       (以下4行)最后一个关键帧    
+	background-color: hsl(270, 50%, 90%);        
+	transform: translate(0);                   
+	}
+}
+```
+animation-name(over-and-back)——代表动画名称,就像@keyframes规则定义的那样。
+animation-duration(1.5s)——代表动画持续时间,在本例中是1.5s。
+animation-timing-function(linear)——代表定时函数,用来描述动画如何加速和/或减速。可以是贝塞尔曲线或者关键字值,就像过渡使用的定时函数一样(ease-in、easeout,等等)。
+animation-iteration-count(3)——代表动画重复的次数。初始值默认是1。
+## 动画传递意图
+人们对动画有个普遍误解,即它们只是用来让页面变得有趣,没有什么实际用处。有时候确实是这样的(就像上一个例子),但不总是这样。有些非常好的动画不是最后才加上的,而是融入到了开发过程中。它们向用户传达页面上某些事物的特殊含义。
+### 反馈用户操作
+### 吸引用户的注意力

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "程序/前端/CSS/高级CSS.md",
+            "file": "程序/前端/CSS/sass.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/前端/CSS/高级CSS.md",
+                "file": "程序/前端/CSS/sass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "faa648243d501032",
   "lastOpenFiles": [
+    "程序/前端/CSS/sass.md",
     "程序/前端/CSS/高级CSS.md",
     "程序/前端/CSS/模块化.md",
     "程序/前端/CSS/精通布局.md",
@@ -106,7 +107,6 @@
     "README.md",
     "程序/前端/ES6.md",
     "程序/前端/未命名.md",
-    "程序/记事本/PostgresSQL+PostGIS 安装 远程访问.md",
-    "信息系统项目管理/22 信息安全管理.md"
+    "程序/记事本/PostgresSQL+PostGIS 安装 远程访问.md"
   ]
 }
