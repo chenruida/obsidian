@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "程序/Web安全开发指南/制订安全计划.md",
+            "file": "程序/前端/js/JavaScript高级程序设计.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "388e1109d1cf87a8",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/Web安全开发指南/制订安全计划.md",
+                "file": "程序/前端/js/JavaScript高级程序设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "faa648243d501032",
   "lastOpenFiles": [
+    "程序/前端/js/JavaScript高级程序设计.md",
+    "程序/前端/js/node/node.md",
+    "程序/前端/js/ES6.md",
     "程序/Web安全开发指南/制订安全计划.md",
     "程序/Web安全开发指南/Web安全开发指南.md",
     "程序/Web安全开发指南.md",
     "程序/前端/CSS/sass.md",
     "程序/前端/CSS/高级CSS.md",
     "程序/前端/CSS/模块化.md",
-    "程序/前端/CSS/精通布局.md",
-    "程序/前端/CSS/css-基础.md",
-    "程序/分形几何/第一课.md",
-    "README.md"
+    "程序/前端/CSS/精通布局.md"
   ]
 }
