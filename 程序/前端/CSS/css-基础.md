@@ -251,7 +251,12 @@ vertical-align 可以解决的问题
 	1. `transform:rote(角度)`
 	2. `transform-origin:原点水平位置 原点垂直距离`
 	3. `transform:rotateZ()`
+	4. 遵循左手法则
 4. 复合
 	1. 有层叠性，不能先写旋转 
 5. 渐变
-6. 3D
+6. perspective 只近大远小，近实远虚的视觉效果
+7. 立体呈现：使用`transform-style:preserve-3d`呈现立体效果
+	1. 盒子父元素添加`transform-style:preserve-3d`
+	2. 按需要设置子盒子的位置（位移或旋转）
+ 

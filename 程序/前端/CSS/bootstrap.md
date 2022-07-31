@@ -1,0 +1,2 @@
+- 默认分成12份
+- container bootstrap提供的类名，自带15的内边距，可用row抵消
