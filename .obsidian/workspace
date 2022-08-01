@@ -7,12 +7,16 @@
         "id": "140452169f1066c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "程序/前端/js/DOM.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "d9d1befdc9d04fe5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/前端/js/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +99,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "140452169f1066c9",
+  "active": "5ac4de0d771ef44c",
   "lastOpenFiles": [
+    "程序/前端/js/DOM.md",
     "程序/前端/CSS/高级CSS.md",
     "程序/前端/CSS/CSS.md",
     "程序/前端/CSS/模块化.md",
@@ -106,7 +110,6 @@
     "程序/前端/CSS/精通布局.md",
     "程序/前端/html.md",
     "程序/Web安全开发指南/制订安全计划.md",
-    "程序/Web安全开发指南/Web安全开发指南.md",
-    "程序/Web安全开发指南.md"
+    "程序/Web安全开发指南/Web安全开发指南.md"
   ]
 }
