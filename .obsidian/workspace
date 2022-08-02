@@ -4,15 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "140452169f1066c9",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "d9d1befdc9d04fe5",
+        "id": "074d3273f09015bb",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -99,8 +91,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ac4de0d771ef44c",
+  "active": "074d3273f09015bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "程序/前端/js/DOM.md",
     "程序/前端/CSS/高级CSS.md",
     "程序/前端/CSS/CSS.md",
@@ -109,7 +102,6 @@
     "程序/前端/CSS/css-基础.md",
     "程序/前端/CSS/精通布局.md",
     "程序/前端/html.md",
-    "程序/Web安全开发指南/制订安全计划.md",
-    "程序/Web安全开发指南/Web安全开发指南.md"
+    "程序/Web安全开发指南/制订安全计划.md"
   ]
 }
