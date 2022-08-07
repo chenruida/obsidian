@@ -30,5 +30,62 @@ html:`document.documentElement`
 `element.innerHtml`从起始位置到终止位置，包含html标签，同时保留空格和换行
 ## 修改属性
 
-# 节点操作
+# 排他算法
+同一组元素，某一元素实现某种样式，需要用到循环的排他思想
+1. 所有元素全部清除样式（干掉其他人）
+2. 设置当前元算的样式（留下自己）
 
+# 获取，设置属性值
+1. `element.属性` 获取属性值 (元素本身的属性)
+2. `element.getAttribute('属性')` （获取自定义的属性）
+3. 同理设置属性值也一样
+
+# 自定义属性
+保存并使用某些数据
+H5 规定自定义属性data-开头作为属性名并且赋值
+dataset 是一个集合存放了所有以data开头的自定义属性
+如果自定义属性里面有多个-链接的单词，我们获取采用==驼峰命名法==
+H5 新增element.dataset.index
+
+# 节点操作
+| DOM                       | 节点                       |
+| ------------------------- | -------------------------- |
+| document.getElementById() | 利用父子兄节点关系获取元素 |
+| 逻辑性不强、繁琐          | 逻辑性强、但兼容性差       | 
+## 概述
+一般来说，节点至少拥有nodeType(节点类型)、nodeName(节点名称)和nodeValue（节点值）这三个基本属性
+| 种类     | nodeType |
+| -------- | -------- |
+| 元素节点 | 1        |
+| 属性节点 | 2        |
+| 文本节点 | 3        | 
+实际开发主要操作标签节点
+## 层次关系
+父子兄层级关系
+1. 父节点 parentNode 离元素最近的父节点
+2. 子节点 chideNodes / children()![](https://raw.githubusercontent.com/chenruida/image/master/202208012021312.png)
+3. firstElementChild 返回第一子元素节点
+4. nextSibling 下一个兄弟节点，元素节点和文本节点
+5. previousSibling 上一个兄弟节点
+6. nextElementSibling 下一个兄弟节点
+## 创建节点
+动态创建元素节点
+`document.createElement('li')`
+添加节点
+`node.appendChild(child)`将一个节点添加到指定父节点的子节点列表的末尾
+`node.insertBefore(child,指定元素）`
+## 删除节点
+`node.removeChild(child)`
+## 复制节点
+`node.cloneNode()` 括号为空或者为false 浅拷贝 只复制标签 为true 深拷贝
+## 三种动态创建元素区别
+![](https://raw.githubusercontent.com/chenruida/image/master/202208012108733.png)
+
+# 高级事件
+[[高级事件]]
+
+
+# DOM案例
+## 全选
+![](https://raw.githubusercontent.com/chenruida/image/master/202208011944680.png)
+![](https://raw.githubusercontent.com/chenruida/image/master/202208011947196.png)

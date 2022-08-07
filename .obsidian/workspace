@@ -7,8 +7,12 @@
         "id": "6b2e210c38d69d00",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "程序/前端/js/BOM.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "388e1109d1cf87a8",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/前端/js/BOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ac4de0d771ef44c",
+  "active": "6b2e210c38d69d00",
   "lastOpenFiles": [
     "程序/前端/js/DOM.md",
+    "程序/前端/js/高级事件.md",
+    "README.md",
     "2022.7.30 IPT培训.md",
     "程序/前端/js/JavaScript高级程序设计.md",
     "程序/前端/js/ES6.md",
     "程序/前端/CSS/bootstrap.md",
     "程序/前端/移动端/rem.md",
     "程序/前端/移动端/Flex.md",
-    "程序/前端/移动端/移动端开发.md",
-    "程序/前端/CSS/动画.md",
-    "程序/前端/CSS/css-基础.md"
+    "程序/前端/移动端/移动端开发.md"
   ]
 }
