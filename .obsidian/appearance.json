@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Dracula + LYT",
-  "translucency": false,
-  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": true,
+  "theme": "system",
   "baseFontSize": 17
 }

@@ -10,6 +10,14 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "a64067a66dc193a7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +99,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "074d3273f09015bb",
+  "active": "5ac4de0d771ef44c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "程序/前端/js/DOM.md",
