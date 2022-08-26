@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "程序/前端/js/ES5.md",
+            "file": "程序/前端/跨域.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/前端/js/ES5.md",
+                "file": "程序/前端/跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "6b2e210c38d69d00",
   "lastOpenFiles": [
-    "程序/前端/js/对象.md",
-    "程序/前端/js/ES5.md",
+    "程序/前端/json.md",
     "程序/前端/js/ES6.md",
+    "程序/前端/js/ES5.md",
+    "程序/前端/js/对象.md",
     "conflict-files-obsidian-git.md",
     "陈旭彤.md",
     "程序/前端/js/本地存储.md",
     "README.md",
     "程序/前端/js/语法基础.md",
-    "程序/前端/移动端/rem.md",
-    "程序/前端/移动端/Flex.md"
+    "程序/前端/移动端/rem.md"
   ]
 }
