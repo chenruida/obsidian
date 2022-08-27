@@ -7,12 +7,8 @@
         "id": "6b2e210c38d69d00",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "陈旭彤.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166,
-    "collapsed": true
+    "width": 166
   },
   "right": {
     "id": "388e1109d1cf87a8",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "陈旭彤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +93,13 @@
   },
   "active": "6b2e210c38d69d00",
   "lastOpenFiles": [
+    "陈旭彤.md",
     "程序/前端/跨域.md",
     "程序/前端/json.md",
     "程序/前端/js/ES6.md",
     "程序/前端/js/ES5.md",
     "程序/前端/js/对象.md",
     "conflict-files-obsidian-git.md",
-    "陈旭彤.md",
     "程序/前端/js/本地存储.md",
     "README.md",
     "程序/前端/js/语法基础.md"
