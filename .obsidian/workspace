@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTTP/HTTP.md",
+            "file": "前端/js/node.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/HTTP.md",
+                "file": "前端/js/node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "6b2e210c38d69d00",
   "lastOpenFiles": [
+    "HTTP/HTTP.md",
     "HTTP/通信.md",
     "前端/js/实例.md",
     "前端/js/高级事件.md",
@@ -106,7 +107,6 @@
     "前端/html.md",
     "前端/js/跨域.md",
     "陈旭彤.md",
-    "前端/js/ES6.md",
-    "前端/js/ES5.md"
+    "前端/js/ES6.md"
   ]
 }

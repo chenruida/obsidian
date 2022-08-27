@@ -30,3 +30,45 @@
   - 网络服务的构建
   - 网络通信
   - http通信
+
+# 模块化
+## 分类
+1. 内置模块
+2. 自定义模块
+3. 第三方模块
+## 加载模块
+```js
+const fs = require('fs')
+const custom = require('./custom.js')
+const moment = require('moment')
+```
+## 模块作用域
+在自定义模块中定义的变量、方法等成员，只能在当前模块中被访问，这种模块级别的访问限制，叫做模块作用域
+### 好处
+1. 防止全局变量污染
+## 向外共享模块作用域中的成员
+### module对象
+存储当前模块的有关信息
+![](https://raw.githubusercontent.com/chenruida/image/master/20220827212149.png)
+### module.exports对象
+共享成员
+外界使用require()方法得到就是module.exports所指向的对象
+
+### 注意点
+使用require()导入模块时，导入结果，==永远以module.exports指向的对象为准==，和exports对象冲突时
+
+### exports对象
+默认情况下，exports和module.exports所指向的对象为同一个
+![](https://raw.githubusercontent.com/chenruida/image/master/20220827213037.png)
+
+## 模块化规范
+1. 每个模块内部，module变量代表当前模块
+2. module变量是一个对象，他的exports属性是对外的接口
+3. 加载某个模块时，其实加载该模块的module.exports属性。require（）方法用于加载模块
+
+# 包
+## 规范
+1. 必须单独的目录存在
+2. 包的顶级目录下必须包含package.json这个包管理配置文件
+3. package.json必须包含name，version，main这三个属性代表包的名称、版本号、包的入口
+4. 
