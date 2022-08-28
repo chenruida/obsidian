@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "987c508bd479a8cd",
+        "id": "23d40bcaec86e35f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/身份认证.md",
+            "file": "前端/Vue/模版语法.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/身份认证.md",
+                "file": "前端/Vue/模版语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "987c508bd479a8cd",
+  "active": "23d40bcaec86e35f",
   "lastOpenFiles": [
+    "前端/Vue/目录.md",
+    "前端/Vue/模版语法.md",
+    "前端/Vue/介绍.md",
+    "Web/身份认证.md",
     "Web/开发模式.md",
     "前端/js/Express.md",
     "前端/js/node.md",
     "conflict-files-obsidian-git.md",
     "陈旭彤.md",
-    "程序/前端/跨域.md",
-    "程序/前端/json.md",
-    "程序/前端/js/ES6.md",
-    "程序/前端/js/ES5.md",
-    "程序/前端/js/对象.md"
+    "程序/前端/跨域.md"
   ]
 }
