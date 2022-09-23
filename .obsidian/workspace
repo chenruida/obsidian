@@ -108,15 +108,15 @@
   },
   "active": "23d40bcaec86e35f",
   "lastOpenFiles": [
-    "前端/Vue/目录.md",
-    "前端/Vue/介绍.md",
     "前端/Vue/模版语法.md",
+    "前端/Vue/介绍.md",
+    "前端/Vue/计算属性.md",
+    "数据库/MongoDB/简介.md",
+    "数据库/MongoDB/MongoDB.md",
+    "前端/Vue/常用特性.md",
+    "前端/Vue/目录.md",
     "Web/身份认证.md",
     "Web/开发模式.md",
-    "前端/js/Express.md",
-    "前端/js/node.md",
-    "conflict-files-obsidian-git.md",
-    "陈旭彤.md",
-    "程序/前端/跨域.md"
+    "前端/js/Express.md"
   ]
 }
