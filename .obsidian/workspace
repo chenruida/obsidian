@@ -108,6 +108,8 @@
   },
   "active": "23d40bcaec86e35f",
   "lastOpenFiles": [
+    "前端/Vue/上线.md",
+    "前端/Vue/原理.md",
     "前端/Vue/前后端交互.md",
     "前端/Vue/组件.md",
     "陈旭彤.md",
@@ -115,8 +117,6 @@
     "前端/Vue/常用特性.md",
     "前端/Vue/介绍.md",
     "前端/Vue/计算属性.md",
-    "数据库/MongoDB/简介.md",
-    "数据库/MongoDB/MongoDB.md",
-    "前端/Vue/目录.md"
+    "数据库/MongoDB/简介.md"
   ]
 }
