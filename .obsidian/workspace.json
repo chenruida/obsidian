@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "afb7791d82a21345",
+        "id": "278e857f200a66ea",
         "type": "tabs",
         "children": [
           {
-            "id": "011abaf4af0ca907",
+            "id": "91b043ea40f8d235",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/SSR/原理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f431623560802546",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/SSR/原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "前端/SSR/原理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,31 +113,59 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/SSR/原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "011abaf4af0ca907",
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "91b043ea40f8d235",
   "lastOpenFiles": [
-    "前端/Vue/原理.md",
-    "前端/未命名.md",
+    "工作/二机对接.md",
+    "工作/文物建筑监测系统.md",
+    "README.md",
+    "信息化发展.md",
+    "工作/监测设备.md",
+    "未命名.canvas",
+    "实景三维.md",
+    "讲座总结.md",
+    "工作/防雷维保.md",
+    "工作/发言.md",
+    "工作/故宫古雨水.md",
+    "().md",
+    "积水内涝判定的标准是什么.md",
+    "工作/专家意见.md",
+    "工作/石刻.md",
+    "基于三维激光点云技术的岩体结构面智能解译.pdf.md",
+    "开发",
+    "工作",
+    "专家意见.html",
+    "开发/算法/拓片.md",
+    "基于三维激光点云技术的岩体结构面智能解译.pdf",
+    "开发/算法/ChatGPT.md",
+    "记录.md",
+    "内蒙古.md",
+    "开发/数据库/MongoDB/简介.md",
+    "开发/数据库/MongoDB/MongoDB.md",
+    "开发/GIS/地图服务.md",
+    "开发/前端/gis.md",
     "陈旭彤 20221027 北语培训.md",
-    "前端/Vue/目录.md",
-    "前端/Vue/上线.md",
-    "前端/Vue/前后端交互.md",
-    "前端/Vue/组件.md",
-    "陈旭彤.md",
-    "前端/Vue/模版语法.md",
-    "前端/Vue/常用特性.md"
+    "开发/前端/js/ES6.md"
   ]
 }

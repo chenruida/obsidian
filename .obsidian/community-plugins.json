@@ -1,4 +1,10 @@
 [
   "obsidian-image-auto-upload-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-mind-map",
+  "table-editor-obsidian",
+  "obsidian-annotator",
+  "obsidian-pandoc"
 ]

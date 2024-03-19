@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e9fb223473fcda5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fb798ebbc38bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5995dc17591c61c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bddb5514519fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c55caa7046cddb4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ac9fcdfc1384040",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c4d4959e8d93fe41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1572093dd84bd21e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0423f8bad403f2f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cf3fb12ac3c80cb6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1eb8075d5ea7c321",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eece06f975944e77",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1bddb5514519fb1e",
+  "lastOpenFiles": [
+    "开发/java/基础知识/Java 基础知识.md",
+    "开发/java/基础知识/XML.md",
+    "开发/java/picture/静态成员内存.jpg",
+    "开发/java/基础知识/Jave Web.md",
+    "开发/java/picture/线程状态.jpg",
+    "开发/java/picture/字符串内存.png",
+    "开发/java/picture/service.png",
+    "开发/java/picture/entry.jpg",
+    "开发/java/picture/BOM.png",
+    "开发/java/picture/数组内存.jpg",
+    "开发/java/基础知识/MySQL约束课堂笔记.md",
+    "开发/算法/动态规划.md",
+    "开发/前端/CSS/CSS.md",
+    "开发/计算机图形/第一章 图形系统和模型.md",
+    "开发/前端/js/ES6.md",
+    "开发/前端/CSS/项目实战.md",
+    "开发/前端/js/实例.md",
+    "开发/前端/js/DOM.md",
+    "开发/前端/CSS/sass.md",
+    "开发/前端/CSS/css-基础.md",
+    "开发/前端/CSS/精通布局.md",
+    "开发/前端/js/高级事件.md",
+    "开发/前端/CSS/bootstrap.md",
+    "开发/前端/CSS/高级CSS.md",
+    "开发/前端/js/ES5.md",
+    "开发/前端/CSS/模块化.md",
+    "开发/前端/CSS/动画.md",
+    "开发/前端/js/跨域.md",
+    "开发/java/picture/集合框架.jpg",
+    "开发/java/picture/request和response.png",
+    "开发/java/picture/image-20200902102653742.png",
+    "开发/java/基础知识/WebGIS学习规划.md",
+    "开发/java/基础知识/MySQL基础课堂笔记.md",
+    "开发/前端/js/json.md",
+    "开发/前端/js/对象.md",
+    "开发/前端/js/本地存储.md",
+    "开发/系统设计/需求分析与系统设计/需求确定.xmind",
+    "专家意见.html",
+    "未命名.canvas"
+  ]
+}
