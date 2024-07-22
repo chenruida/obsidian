@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "278e857f200a66ea",
+        "id": "7e9946453e2c16fd",
         "type": "tabs",
         "children": [
           {
-            "id": "91b043ea40f8d235",
+            "id": "606251694227f931",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文物建筑信息系统.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文物建筑信息系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文物建筑信息系统.md"
+              }
             }
           },
           {
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文物建筑信息系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,17 +143,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91b043ea40f8d235",
+  "active": "606251694227f931",
   "lastOpenFiles": [
+    "文物建筑监测.md",
+    "文物建筑信息系统.md",
+    "进士题名碑现状测绘与病害调查.md",
+    "工作/防雷维保（第四次）.md",
+    "工作/d.md",
+    "file",
+    "未命名.canvas",
+    "未命名 1.canvas",
     "工作/二机对接.md",
     "工作/文物建筑监测系统.md",
     "README.md",
     "信息化发展.md",
     "工作/监测设备.md",
-    "未命名.canvas",
     "实景三维.md",
     "讲座总结.md",
-    "工作/防雷维保.md",
     "工作/发言.md",
     "工作/故宫古雨水.md",
     "().md",
@@ -163,9 +177,6 @@
     "内蒙古.md",
     "开发/数据库/MongoDB/简介.md",
     "开发/数据库/MongoDB/MongoDB.md",
-    "开发/GIS/地图服务.md",
-    "开发/前端/gis.md",
-    "陈旭彤 20221027 北语培训.md",
-    "开发/前端/js/ES6.md"
+    "开发/GIS/地图服务.md"
   ]
 }

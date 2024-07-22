@@ -19,8 +19,12 @@
             "id": "1bddb5514519fb1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "工作/防雷维保（第四次）.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -79,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "工作/防雷维保（第四次）.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "工作/防雷维保（第四次）.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "工作/防雷维保（第四次）.md"
+          }
         }
       }
     ],
@@ -123,6 +131,8 @@
   },
   "active": "1bddb5514519fb1e",
   "lastOpenFiles": [
+    "工作/专家意见.md",
+    "工作/石刻.md",
     "开发/java/基础知识/Java 基础知识.md",
     "开发/java/基础知识/XML.md",
     "开发/java/picture/静态成员内存.jpg",
@@ -157,8 +167,6 @@
     "开发/java/基础知识/WebGIS学习规划.md",
     "开发/java/基础知识/MySQL基础课堂笔记.md",
     "开发/前端/js/json.md",
-    "开发/前端/js/对象.md",
-    "开发/前端/js/本地存储.md",
     "开发/系统设计/需求分析与系统设计/需求确定.xmind",
     "专家意见.html",
     "未命名.canvas"
